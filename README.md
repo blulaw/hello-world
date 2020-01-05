@@ -1,2 +1,2 @@
 # hello-world
-Mech Elearning to code!
+Mech E learning to code!
